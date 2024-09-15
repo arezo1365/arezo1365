@@ -2,13 +2,9 @@
 # Front-end Developer 
 
 ## My Skills👋:
-### ✨Html ### ✨Css
+### ✨Html  ✨Css ✨Bootstrap ✨javascript ✨ReactJs ✨python ✨Django
 
-### ✨Bootstrap
-### ✨javascript
-### ✨ReactJs
-### ✨python
-### ✨Django
+
 
 
 
