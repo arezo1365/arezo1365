@@ -2,7 +2,7 @@
 ## Front-end Developer 
 ##arezoo goodarzi 👋
 # My Skills:
-<samp>
+<div>
 ⚡ Html ,
 ⚡ Css ,
 ⚡ Bootstrap ,
@@ -10,7 +10,7 @@
 ⚡ ReactJs ,
 ⚡ python ,
 ⚡ Django ,
-</samp>
+</div>
 
 
 
