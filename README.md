@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-## My Skills:
+# My Skills:
 ⚡ Html
 ⚡ Css
 ⚡ Bootstrap
