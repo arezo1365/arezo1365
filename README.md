@@ -1,6 +1,6 @@
 # arezoo goodarzi 
 ## Front-end Developer 
-![m'lady](https://i.imgur.com/v8IVDka.jpg)
+
 # My Skills👋:
 
 ✨ Html 
