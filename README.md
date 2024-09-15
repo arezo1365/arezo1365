@@ -1,4 +1,16 @@
+
 ## Hi there 👋
+## My Skills:
+⚡ Html
+⚡ Css
+⚡ Bootstrap
+⚡ javascript
+⚡ ReactJs
+⚡ python
+⚡ Django
+
+
+
 
 <!--
 **arezo1365/arezo1365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
