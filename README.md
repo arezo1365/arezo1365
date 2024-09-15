@@ -3,22 +3,13 @@
 
 ## My Skills👋:
 ## ✨Html
-## My Skills👋:
-## My Skills👋:
-## My Skills👋:
-## My Skills👋:
-## My Skills👋:
-## My Skills👋:
-## My Skills👋:
-## My Skills👋:
+## ✨Css
+## ✨Bootstrap
+## ✨javascript
+## ✨ReactJs
+## ✨python
+## ✨Django
 
-✨ Html 
-✨ Css 
-✨ Bootstrap 
-✨ javascript 
-✨ ReactJs 
-✨ python 
-✨ Django 
 
 
 
