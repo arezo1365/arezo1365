@@ -1,8 +1,8 @@
 
 ## Hi there 👋
 ## My Skills:
-⚡ Html
-⚡ Css
+⚡ #Html
+⚡ #Css
 ⚡ Bootstrap
 ⚡ javascript
 ⚡ ReactJs
